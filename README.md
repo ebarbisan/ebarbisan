@@ -68,10 +68,12 @@ public class Developer {
 
 <div align="center">
 
-<a href="https://github.com/ebarbisan?tab=repositories"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=ebarbisan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF88&icon_color=00E5FF&text_color=c9d1d9&ring_color=39FF88" alt="Estatísticas dos repositórios públicos de Estevan" /></a>
-<a href="https://github.com/ebarbisan?tab=repositories"><img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebarbisan&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF88&text_color=c9d1d9&langs_count=6" alt="Distribuição das linguagens nos repositórios públicos" /></a>
+[![Seguidores](https://img.shields.io/github/followers/ebarbisan?style=for-the-badge&color=39FF88&labelColor=0D1117&label=Seguidores)](https://github.com/ebarbisan?tab=followers)
+[![Stars](https://img.shields.io/github/stars/ebarbisan?style=for-the-badge&color=00E5FF&labelColor=0D1117&label=Stars)](https://github.com/ebarbisan?tab=repositories)
 
-<sub>Linguagens refletem o código dos repositórios públicos, não o nível de domínio. Os cartões dependem de um serviço externo.</sub>
+[Repositórios e linguagens ↗](https://github.com/ebarbisan?tab=repositories) · [Histórico de contribuições ↗](https://github.com/ebarbisan?tab=overview)
+
+<sub>Indicadores públicos atualizados por serviço externo; não representam nível de domínio técnico.</sub>
 
 </div>
 
