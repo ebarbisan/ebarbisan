@@ -1,166 +1,102 @@
-# 👾 Estevan | Java Developer
-
+<!-- Cyber Terminal V2 | palette: #39FF88 / #00E5FF / #0D1117 -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:001a0d,50:003b25,100:00ff88&text=ESTEVAN&fontColor=39ff88&fontSize=55&fontAlignY=50&animation=fadeIn&stroke=00ff88&strokeWidth=1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:0D1117,50:003b25,100:39FF88&text=ESTEVAN&fontColor=39FF88&fontSize=55&fontAlignY=50&animation=fadeIn&stroke=00E5FF&strokeWidth=1" alt="ESTEVAN — Cyber Terminal" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=39FF88&center=true&vCenter=true&width=600&lines=Hello%2C+World!+%F0%9F%91%8B;Java+%26+Spring+Boot+Developer;Building+APIs+and+Backend+Solutions;Always+Learning.+Always+Building.)](https://git.io/typing-svg)
+# Estevan | Desenvolvimento Java
 
-<br/>
+**Java · Spring Boot · APIs REST**  
+Desenvolvedor em início de carreira, construindo minha base em backend.
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=39ff88)](https://github.com/ebarbisan)
-[![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00)](https://www.java.com/)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=6DB33F)](https://spring.io/projects/spring-boot)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/)
+[![Portfólio](https://img.shields.io/badge/VER_PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=39FF88)](https://portfolio-dev-psi-coral.vercel.app)
+[![Projetos](https://img.shields.io/badge/EXPLORAR_PROJETOS-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF)](#rootestevan-featured-projects)
 
 </div>
 
----
-
 ## `root@estevan:~# whoami`
 
-```bash
-> Initializing developer profile...
-> Loading professional information...
-> Status: ONLINE
-```
+Olá! Sou **Estevan**. Estudo **Java, orientação a objetos, Spring Boot, APIs REST e SQL**, com foco em aplicações organizadas e soluções úteis.
 
-Olá! Sou **Estevan**, desenvolvedor em início de carreira, apaixonado por tecnologia, programação e desenvolvimento de soluções.
-
-Atualmente, concentro meus estudos e projetos em **Java, Spring Boot, desenvolvimento de APIs REST e bancos de dados**, buscando construir aplicações organizadas, escaláveis e eficientes.
-
-Também exploro o desenvolvimento Full Stack, automação e ferramentas de inteligência artificial para aprimorar meu fluxo de trabalho.
+Meus projetos publicados também exploram o desenvolvimento web. Abaixo, separo o que já está no código do que faz parte da minha próxima etapa de aprendizado.
 
 ```java
 public class Developer {
+    private final String name = "Estevan";
+    private final String focus = "Java + Spring Boot + REST APIs";
+    private final boolean alwaysLearning = true;
 
-    private String name = "Estevan";
-    private String role = "Developer in Progress";
-    private String mainStack = "Java + Spring Boot";
-    private String focus = "Backend Development";
-    private boolean alwaysLearning = true;
-
-    public void currentMission() {
-        System.out.println("Learn. Build. Improve. Repeat.");
+    public String currentMission() {
+        return "Learn. Build. Improve. Repeat.";
     }
 }
 ```
 
+## `root@estevan:~# featured-projects`
+
+| Projeto | O que você encontra | Tecnologias no repositório | Acessar |
+| :--- | :--- | :--- | :--- |
+| **[Portfolio Dev](https://github.com/ebarbisan/portfolio-dev)** | Apresentação profissional e vitrine de projetos. | Next.js, React, TypeScript, Tailwind CSS e Framer Motion | [Demo ↗](https://portfolio-dev-psi-coral.vercel.app) |
+| **[Laviky](https://github.com/ebarbisan/lavanderia-laviky-v3)** | Site institucional de lavanderia, serviços e canais de contato. | HTML, CSS e JavaScript | [Demo ↗](https://lavanderia-laviky-v3.vercel.app) |
+| **[Essência do Sul](https://github.com/ebarbisan/essencia-do-sul)** | Site institucional de vinhos e solicitação de acesso para revendedores, em desenvolvimento. | Next.js, TypeScript, Tailwind CSS, Prisma e PostgreSQL configurado no projeto | [Código ↗](https://github.com/ebarbisan/essencia-do-sul) |
+
+**Próxima etapa:** aprofundar Java/Spring Boot, APIs REST e persistência SQL. Esse é meu foco de estudo; os projetos acima não são apresentados como aplicações Java.  
+<sub>Essência do Sul: sem demo pública verificada. A configuração de banco no código não comprova um banco em produção.</sub>
+
 ## `root@estevan:~# tech-stack`
 
-### ⚙️ Backend Development
+**Foco de estudo · Backend**
 
-<div align="left">
-<img height="40" src="https://skillicons.dev/icons?i=java,spring,maven,hibernate" />
-</div>
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=39FF88)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=39FF88)
+![APIs REST](https://img.shields.io/badge/APIs_REST-0D1117?style=for-the-badge&logoColor=00E5FF)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00E5FF)
 
-### 🌐 Frontend Development
+**Nos projetos · Web e dados**
 
-<div align="left">
-<img height="40" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-</div>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,prisma,postgres&perline=5" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Prisma e PostgreSQL" />
 
-### 🗄️ Databases
+## `root@estevan:~# current-focus`
 
-<div align="left">
-<img height="40" src="https://skillicons.dev/icons?i=postgres,mysql,supabase,prisma" />
-</div>
-
-### 🛠️ Tools & Environment
-
-<div align="left">
-<img height="40" src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker,linux,postman" />
-</div>
-
----
+```text
+[01] Java e orientação a objetos
+[02] Spring Boot e construção de APIs REST
+[03] Modelagem de dados e SQL
+[04] Código limpo, organização e versionamento
+```
 
 ## `root@estevan:~# github-statistics`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ebarbisan&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39ff88&icon_color=00e5ff&text_color=c9d1d9&ring_color=39ff88&include_all_commits=true" />
+[![Seguidores](https://img.shields.io/github/followers/ebarbisan?style=for-the-badge&color=39FF88&labelColor=0D1117&label=Seguidores)](https://github.com/ebarbisan?tab=followers)
+[![Stars](https://img.shields.io/github/stars/ebarbisan?style=for-the-badge&color=00E5FF&labelColor=0D1117&label=Stars)](https://github.com/ebarbisan?tab=repositories)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebarbisan&layout=compact&hide_border=true&bg_color=0d1117&title_color=39ff88&text_color=c9d1d9&langs_count=8" />
+[Repositórios e linguagens ↗](https://github.com/ebarbisan?tab=repositories) · [Histórico de contribuições ↗](https://github.com/ebarbisan?tab=overview)
 
-<img width="75%" src="https://streak-stats.demolab.com?user=ebarbisan&theme=dark&hide_border=true&background=0D1117&ring=39FF88&fire=00E5FF&currStreakLabel=39FF88&sideLabels=39FF88&dates=888888" />
+<sub>Indicadores públicos atualizados por serviço externo; não representam nível de domínio técnico.</sub>
 
 </div>
-
----
 
 ## `root@estevan:~# contribution-activity`
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ebarbisan&bg_color=0d1117&color=39ff88&line=00e5ff&point=39ff88&area=true&hide_border=true&custom_title=DEVELOPER%20ACTIVITY" />
+<img width="100%" src="https://raw.githubusercontent.com/ebarbisan/ebarbisan/output/github-contribution-grid-snake-dark.svg" alt="Animação Snake percorrendo o histórico de contribuições no GitHub" />
 
-<img width="100%" src="https://raw.githubusercontent.com/ebarbisan/ebarbisan/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
-
-</div>
-
----
-
-## `root@estevan:~# achievements`
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=ebarbisan&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=4" />
+[Ver contribuições no GitHub](https://github.com/ebarbisan)
 
 </div>
-
----
-
-## `root@estevan:~# featured-projects`
-
-Aqui ficam alguns dos projetos que representam minha evolução como desenvolvedor.
-
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| Portfolio Dev | Portfólio profissional e apresentação dos projetos | Next.js, Tailwind |
-| Laviky | Sistema institucional com funcionalidades de agendamento | Projeto em evolução para Java / Spring Boot |
-| Essência do Sul | Plataforma institucional para vinícola | Next.js, Prisma, PostgreSQL |
-
-> Os projetos e suas tecnologias devem ser atualizados conforme a evolução de cada repositório.
-
----
-
-## `root@estevan:~# current-focus`
-
-```text
-[ IN PROGRESS ]
-
-[01] Java & Object-Oriented Programming
-[02] Spring Boot & REST APIs
-[03] Database Modeling & SQL
-[04] Clean Code & Software Architecture
-[05] Git, GitHub & Version Control
-[06] AI-assisted Development
-```
-
----
 
 ## `root@estevan:~# connect`
 
-<div align="center">
+Vamos conversar sobre código, aprendizado e novos projetos.
 
-**Let's build something great together!**
+**[Conheça meu portfólio ↗](https://portfolio-dev-psi-coral.vercel.app)** · **[Explore meus repositórios ↗](https://github.com/ebarbisan?tab=repositories)**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Projects-000000?style=for-the-badge&logo=github&logoColor=39ff88)](https://github.com/ebarbisan)
-
-<!-- Adicione seu LinkedIn e e-mail quando desejar -->
-
-</div>
+<!-- Adicionar LinkedIn e e-mail somente após confirmar os endereços com Estevan. -->
 
 ---
 
 <div align="center">
-
-```bash
-echo "Thanks for visiting my profile!"
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003b25,100:001a0d&height=100&section=footer" />
-
 <sub>Building my future, one commit at a time. 💚</sub>
-
 </div>
