@@ -1,7 +1,7 @@
 <!-- Cyber Terminal V2 | palette: #39FF88 / #00E5FF / #0D1117 -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:0D1117,50:003b25,100:39FF88&text=ESTEVAN&fontColor=39FF88&fontSize=55&fontAlignY=50&animation=fadeIn&stroke=00E5FF&strokeWidth=1" alt="ESTEVAN — Cyber Terminal" />
+<img width="100%" src="assets/banner-cyber-terminal.png" alt="Estevan Barbisan — banner pixel art com terminal, tecnologias de desenvolvimento, referências gamer e mascote Java" />
 
 # Estevan | Desenvolvimento Java
 
